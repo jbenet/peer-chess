@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimpick/peer-chess.git"
+    "url": "git+https://github.com/jbenet/peer-chess.git"
   },
   "keywords": [],
-  "author": "Juan Benet (@jbenet) and Jim Pick (@jimpick)",
+  "author": "Juan Benet (@jbenet)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimpick/peer-chess/issues"
+    "url": "https://github.com/jbenet/peer-chess/issues"
   },
-  "homepage": "https://github.com/jimpick/peer-chess#readme"
+  "homepage": "https://github.com/jbenet/peer-chess#readme"
 }
