@@ -1,4 +1,4 @@
-var PeerStarApp = require('peer-star-app')
+var PeerStarApp = require('peer-base')
 
 // const ChessCRDT = new require('./chess-crdt')
 // var ChessBoard = require('chess.js').Chess
